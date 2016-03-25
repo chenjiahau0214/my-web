@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/person.es6"],"names":[],"mappings":";;AAAA,IAAI,IAAI,EAAJ;AACJ,IAAI,aAAgB,uCAAkC,uBAAlD","file":"person.js","sourcesContent":["let q = 98;\nlet myVariable = `${q} bottles of beer on the wall, ${q} bottles of beer.`;\n"]}
